@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **GSOC**
 
-- 👨‍💻 All of my projects are available at [.](https://github.com/Krishnandu-Halder)
+- 👨‍💻 All of my projects are available at [link](https://github.com/Krishnandu-Halder)
 
-- 📝 I regularly write articles on [.](https://github.com/Krishnandu-Halder)
+- 📝 I regularly write articles on [link](https://github.com/Krishnandu-Halder)
 
 - 💬 Ask me about **DSA**
 
