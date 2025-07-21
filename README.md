@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnandu-halder&label=Profile%20views&color=0e75b6&style=flat" alt="krishnandu-halder" /> </p>
 
-- 🔭 I’m currently Studying on Computer Science
+- 🔭 I’m currently studying Computer Science Engineering (AI & ML)
 
 - 🌱 I’m currently learning **React, Blockchain**
 
@@ -13,14 +13,14 @@
 
 - 👨‍💻 All of my projects are available at [link](https://github.com/Krishnandu-Halder)
 
-- 📝 I regularly write articles on [link](https://github.com/Krishnandu-Halder)
+- 📝 I regularly write articles on [link](https://krishnandu-dev.netlify.app/)
 
 - 💬 Ask me about **DSA**
 
 - 📫 How to reach me **Krishnandu.work@gmail.com**
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" align="right">
 
-- 📄 Know about my experiences [.](.)
+- 📄 Know about my experiences [link](https://krishnandu-dev.netlify.app/)
 
 - ⚡ Fun fact **I am funny 😅**
   
