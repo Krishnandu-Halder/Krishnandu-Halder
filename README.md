@@ -19,18 +19,18 @@
   <h3 align="left">Connect with me:</h3>
 <table border="0">
   <tr>
-    <td width="100"><a href="https://codepen.io/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="80" width="100" /></a></td>
-    <td width="100"><a href="https://twitter.com/krishnandu-halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="80" width="100" /></a></td>
-    <td width="100"><a href="https://linkedin.com/in/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="80" width="100" /></a></td>
-    <td width="100"><a href="https://stackoverflow.com/users/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="80" width="100" /></a></td>
-    <td width="100"><a href="https://codesandbox.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://codepen.io/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://twitter.com/krishnandu-halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://linkedin.com/in/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://stackoverflow.com/users/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://codesandbox.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="80" width="100" /></a></td>
   </tr>
   <tr>
-    <td width="100"><a href="https://kaggle.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="80" width="100" /></a></td>
-    <td width="100"><a href="https://fb.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="80" width="100" /></a></td>
-    <td width="100"><a href="https://instagram.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="80" width="100" /></a></td>
-    <td width="100"><a href="https://www.codechef.com/users/krishnandu halder" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="80" width="100" /></a></td>
-    <td width="100"><a href="https://www.leetcode.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://kaggle.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://fb.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://instagram.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://www.codechef.com/users/krishnandu halder" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="80" width="100" /></a></td>
+    <td width="80"><a href="https://www.leetcode.com/krishnandu halder" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="80" width="100" /></a></td>
   </tr>
 </table>
 </br>
