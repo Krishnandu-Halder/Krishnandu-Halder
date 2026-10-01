@@ -7,12 +7,12 @@
      wordmark: python scripts/make_wordmark_svg.py --mode rock
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>Krishnandu-Halder@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./krish-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
+<td valign="top"><img src="./krish-ascii.svg" width="370" alt="Krishnandu Halder — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="KRISH — 3D ASCII wordmark" /></td>
 </tr>
 </table>
 
