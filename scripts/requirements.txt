@@ -1,0 +1,14 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+    
+# portrait-only (not needed by the daily workflow):
+    
+pillow
+    
+numpy
+    
+opencv-python
+    
+rembg
+pip install "rembg[cpu]" # for library
+pip install "rembg[cpu,cli]" # for library + cli
