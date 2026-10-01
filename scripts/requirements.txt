@@ -10,5 +10,3 @@ numpy
 opencv-python
     
 rembg
-pip install "rembg[cpu]" # for library
-pip install "rembg[cpu,cli]" # for library + cli
