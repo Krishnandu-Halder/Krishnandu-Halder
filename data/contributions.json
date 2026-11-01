@@ -1,32 +1,28 @@
 {
   "username": "Krishnandu-Halder",
-  "generated_at": "2026-10-31T12:27:58Z",
+  "generated_at": "2026-11-01T13:23:24Z",
   "range": {
-    "start": "2025-10-26",
+    "start": "2025-11-02",
+    "end": "2026-11-01"
+  },
+  "total_contributions": 77,
+  "active_days": 48,
+  "avg_per_active_day": 1.6,
+  "current_streak": {
+    "length": 31,
+    "start": "2026-10-01",
     "end": "2026-10-31"
   },
-  "total_contributions": 82,
-  "active_days": 49,
-  "avg_per_active_day": 1.7,
-  "current_streak": {
-    "length": 30,
-    "start": "2026-10-01",
-    "end": "2026-10-30"
-  },
   "longest_streak": {
-    "length": 30,
+    "length": 31,
     "start": "2026-10-01",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "best_day": {
     "date": "2026-10-01",
     "count": 7
   },
   "monthly": [
-    {
-      "month": "2025-10",
-      "total": 6
-    },
     {
       "month": "2025-11",
       "total": 1
@@ -73,38 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 39
+      "total": 40
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 1
-    },
-    {
-      "date": "2025-10-27",
-      "count": 5
-    },
-    {
-      "date": "2025-10-28",
-      "count": 0
-    },
-    {
-      "date": "2025-10-29",
-      "count": 0
-    },
-    {
-      "date": "2025-10-30",
-      "count": 0
-    },
-    {
-      "date": "2025-10-31",
-      "count": 0
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0
-    },
     {
       "date": "2025-11-02",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-31",
+      "count": 1
+    },
+    {
+      "date": "2026-11-01",
       "count": 0
     }
   ]
